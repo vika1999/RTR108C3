@@ -1,0 +1,39 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usepackage{pgfplots}
+
+\title{$y = \frac{1}{x}$}
+\author{viktorija.99 }
+
+\begin{document}
+\maketitle
+
+\begin{tikzpicture}
+
+%\draw [thick,->] (-5,0) -- (4.5,0) node[anchor = north west] {x axis};
+%\draw [thick,->] (0,-5) -- (0,4.5) node[anchor = north east] {y axis};
+
+%\foreach \x in {4}
+   %    \draw(\x cm,1pt) -- (\x cm, -1pt) node[anchor=north]{$\x$};
+% \foreach \y in {0,4}
+%        \draw(1pt, \y cm) -- (-1pt, \y cm) node[anchor=east]{$\y$};
+
+\begin{axis}[ymin=-7,
+  ymax=7,
+  xmin=-10.1,
+  xmax=10.1,
+  axis on top=true,
+  axis x line=middle,
+  axis y line-middle,
+  ]
+\addplot[domain=-10:-0.01]{1/x};
+\addplot[domain=0.05:10]{1/x};
+
+\end{axis} 
+\end{tikzpicture}
+
+\end{document}
+
+
+
