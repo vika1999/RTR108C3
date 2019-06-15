@@ -1,0 +1,35 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{1819-108-C3-W1-01}
+\author{viktorija.99}
+ \date{January 2019}
+
+\begin{document}
+
+% \maketitle
+
+\section*{Ievads}
+
+123 \\ 
+456
+
+Tas ir mans pirmais teksts ar LaTex! Man patīk! 
+Tas ir mans pirmais teksts ar LaTex! Man patīk!
+Tas ir mans pirmais teksts ar LaTex! Man patīk!
+Tas ir mans pirmais teksts ar LaTex! Man patīk!
+Tas ir mans pirmais teksts ar LaTex! Man patīk!
+
+Tas ir mans pirmais teksts ar LaTex! Man patīk!
+Tas ir mans pirmais teksts ar LaTex! Man patīk!
+Tas ir mans pirmais teksts ar LaTex! Man patīk!
+Tas ir mans pirmais teksts ar LaTex! Man patīk!
+Tas ir mans pirmais teksts ar LaTex! Man patīk!
+
+Tas ir mans pirmais teksts ar LaTex! Man patīk!
+Tas ir mans pirmais teksts ar LaTex! Man patīk!
+Tas ir mans pirmais teksts ar LaTex! Man patīk!
+Tas ir mans pirmais teksts ar LaTex! Man patīk!
+Tas ir mans pirmais teksts ar LaTex! Man patīk!
+
+\end{document}
