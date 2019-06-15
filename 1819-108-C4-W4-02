@@ -1,0 +1,83 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\begin{document}
+\begin{center}
+\section*{\normalsize17.7 EXERCISES}
+\noindent{\color{} \rule{\linewidth}{0.1mm} }
+\end{center}
+\begin{tikzpicture}
+write $\slshape{k}$ is a constant and
+\\
+\[   \left\{
+\begin{array}{ll}
+      x & 0\leq x\leq \pi/2, \\
+      \pi-x & \pi/2\leq x\leq \pi. \\
+\end{array} 
+\right. \]
+\begin{enumerate}
+\item Consider the following two approaches to constructing a Green's function.
+\begin{enumerate}
+\item {Find those eigenfunctions ${y_n(x)}$ of the self-adjoint linear differential operator ${d^2/dx^2}$ that satisfy the boundary conditioins ${y_n(0) = y_n(\pi) = 0}$, and hence construct its Green's $\slshape G(x,z)$.
+\item Construct the same Green's function using a method based on the complementary function of the appropriate differential equation and the boundary conditions to be satisfied at the position of the ${\delta-function}$, showing that it is
+\[   \left\{
+\begin{array}{ll}
+      x(z - \pi)\pi & 0\leq x\leq z, \\
+      z(x - \pi)/\pi & z\leq x\leq \pi. \\
+\end{array} 
+\right. \]
+
+\item By expanding the function given in (b) in terms of the eigenfunctions ${y_n(x)}$, verify that it is the same function as that derived in (a).
+\end{enumerate}
+\item The differential operator L is defined by
+\\
+\begin{center}
+$\L_y_n$ = -{\frac{d}{dx}{(e^x {\frac{dy}{dx})$- ${\frac{1}{4}e^xy}$.
+\end{center}
+\item Determine the eigenvalues ${\lambda_n}$ of the problem 
+\begin{center}
+${L_y_n = \lambda_n e^xy_n}  ${0 & z\leq x\leq 1}.$
+\end{center}
+\item with boundary conditions
+\begin{center}
+${y(0) =, \frac{dy}{dx} + \frac{1}{2}_y = 0 at x = 1.}$
+\end{center}
+\begin{enumerate}
+\item Find the corresponding unnormalised $y_n$, and also a weight function p(x) with respect to which the $y_n$ are orthogonal. Hence, select a suitable normalisation for the $y_n$.
+\item By making an eigenfunction expansion, solve the equation
+\begin{center}
+\\${L_y = -e^x/^2}, 
+\begin{array}{ll} 
+{$0 & z\leq x\leq 1$}, 
+\\subject to the same boundary conditions s previously.
+\end{array}
+$\end{center}
+\end{enumerate}
+\begin{enumerate}
+Show that the linear
+\end{enumerate}
+\begin{center}
+    ${L = _\frac{1}{4}(1+x^2)^2 \frac{d^2}{dx^2}+\frac{1}{2}x(1+x^2)\frac{d}{dx}+a.}$
+\end{center}
+\begin{enumerate}
+\\acting upon functions defined in  ${-1\leq x\leq 1}$ and vanishing at the end-points of interval, is Hermitian with respect to the weight function ${(1 + x^2)^-1}$
+ \\By making the change of variable ${x = tan(0/2)}$, find two even eigenfunctions, 
+ \\
+ \item
+ \begin{center}
+     ${Lu = \lambda*u}$
+ \end{center}
+ 
+\end{enumerate}
+\begin{newline}
+By substituting ${x = exp \iota}$, find the normalised eigenfunctions ${y_n(x)}$ and the egenvalues ${\lambda_n}$, of the operator ${L}$ defined by
+\end{newline}
+\begin{center}
+$ \lambda_y = $x_{y_z}$$2_{x_y}$\frac{1}{4}_y}$
+    {1\leq x\leq e}$ 
+\end{center}
+\begin{newline}
+with $y(\iota)$= $y(e)$ = 0. Find, as a series ${\sum}$
+\end{newline}
+\end{tikzpicture}
+\end{document}
