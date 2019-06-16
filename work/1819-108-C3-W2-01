@@ -1,0 +1,47 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\title{1819-108-C3-W2-01}
+\author{viktorija.99 }
+\date{February 2019}
+
+\begin{document}
+
+
+\maketitle
+
+\section*{Formulās}
+$$(x-2)*(x-3) = 0$$
+
+$$x^2 - 5x + 6 = 0$$
+
+$$\frac{x-1}{x-2}$$
+$$\begin{cases}
+    x^2+y^3=5
+    \\
+    x-y=-1
+  \end{cases}$$    
+
+$$(a - b)^2 = a^2 - 2ab + b^2$$
+
+$$4 = x$$
+
+$$sin^2x + cos^2x = 1$$
+
+$$y = \frac{x-1}{x-2}$$
+
+$$\int x^2 dx = \frac{x^3}{3}$$
+
+$$\lim_{x\to\1-0}\frac{1}{x-1}$$
+
+$$\lim_{x\to\1+0}\frac{1}{x-1}$$
+
+$$x^2$$
+
+$$y''_I=y''_ĪI$$
+
+$$4*4*\frac{1}{2} = 8$$
+
+
+
+\end{document}
